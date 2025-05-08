@@ -54,9 +54,9 @@ Hoje, trago essa bagagem pro digital — desenvolvendo sites, interfaces e proje
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFerrazdev&rank_icon=github&show_icons=true&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFerrazdev&rank_icon=github&show_icons=true&theme=cobalt&bg_color=000000" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFerrazdev&layout=compact&langs_count=8&card_width=320" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFerrazdev&bg_color=000000&layout=compact&langs_count=8&card_width=320" />
 </a>
 
