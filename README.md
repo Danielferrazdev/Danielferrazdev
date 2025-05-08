@@ -50,3 +50,13 @@ Hoje, trago essa bagagem pro digital — desenvolvendo sites, interfaces e proje
 - Comunicação clara
 - Simplicidade com propósito
 - Cuidado com quem vai usar o que eu crio
+
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielFerrazdev&rank_icon=github&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielFerrazdev&layout=compact&langs_count=8&card_width=320" />
+</a>
+
