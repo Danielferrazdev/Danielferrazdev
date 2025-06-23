@@ -42,7 +42,6 @@ Hoje, trago essa bagagem pro digital — desenvolvendo sites, interfaces e proje
 
 ### 🌐 Meus links
 
-- 🔗 Portfólio: [danielferraz.com](https://danielferraz.com)
 - 💼 LinkedIn: [in/daniel-ferraz-de-mendonça](www.linkedin.com/in/daniel-ferraz-de-mendonça)
 - 📂 Repositórios com projetos: veja abaixo ⬇️
 
